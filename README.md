@@ -2,7 +2,7 @@
 Alfred workflow for a simple timer
 
 # Installation
-Download the file Eggtimer.alfredworkflow from the above folder and click on it once it's downloaded
+Download the Workflow here: https://github.com/albertomontagnese/eggtimer/blob/main/Eggtimer.alfredworkflow?raw=true
 
 # Setup a 5m timer
 ```python
